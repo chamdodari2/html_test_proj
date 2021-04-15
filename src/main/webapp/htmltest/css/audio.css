@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+h4 {
+	margin-left: 500px;
+	text-align: left;
+}
+
+.text {
+	margin-bottom: 20px;
+}
+
+#arirang {
+	margin: 0 auto;
+	display: block;
+	width: 500px;
+}
+
+audio {
+	margin-top: 10px;
+}

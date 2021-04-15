@@ -1,0 +1,82 @@
+@charset "UTF-8";
+
+body{
+	margin-bottom: 20px;
+}
+.container {
+	margin: 0;
+	padding: 0;
+	color: #07080A;
+	text-align: center;
+}
+
+#logo {
+	width: 80px;
+	display: inline-block;
+}
+
+h1 {
+	display: inline-block;
+}
+
+nav {
+	text-decoration: none;
+	padding: 5px;
+	border-top: 3px solid #8fb9de;
+	border-bottom: 3px solid #8fb9de;
+}
+
+ul {
+	list-style: none;
+}
+
+li {
+	display: inline-block;
+	padding-right: 20px;
+	color: black;
+}
+
+#dokdo_main {
+	margin-left: 450px;
+	margin-right: 450px;
+	width: 650px;
+	padding: 10px;
+}
+
+/* .nav3 {
+	margin: 0 auto;
+	text-align: center;
+	text-decoration: none;
+	padding: 5px;
+	border-bottom: 3px solid #8fb9de;
+	border-width: 5px, 5px, 5px, 5px, 5px;
+} */
+
+
+.dokdomain {
+	padding: inherit;
+	border-bottom: 3px solid #8fb9de;
+}
+
+a {
+	text-align: center;
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	color: red;
+}
+
+header article {
+	text-align: center;
+}
+
+text{
+	margin-bottom: 20px;
+}
+
+footer {
+	border-top: 3px solid #8fb9de;
+	text-align: center;
+}

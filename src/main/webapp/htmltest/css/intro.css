@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+/* 
+1.  margin과 padding은 0, 글자 색은 “#07080A”로 설정  --> .container     div로 하는게 맞나???
+
+
+
+ */
+.color{
+	background-color: orange;
+	margin-left: 40px;
+	margin-right: 10px; 
+}
+
+.text {
+	width: 1100px;
+	text-align: justify;
+	margin: 20px;
+	padding: 10px;
+	border: 2px solid #8fb9de;
+	border-radius: 30px;
+	margin-bottom: 20px;
+}
+body{
+	text-align:center;
+	margin: auto;
+}
+
