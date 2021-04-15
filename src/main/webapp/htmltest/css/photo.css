@@ -1,0 +1,12 @@
+@charset "UTF-8";
+#images{
+	margin-left :5px;
+	margin-right: 5px;
+	margin-top: 30px;
+	margin-bottom: 10px;
+ 	border : 1px solid black;
+	width:150px;
+	height :150px;
+	border-radius: 10px;
+	
+}
